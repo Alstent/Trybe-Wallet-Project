@@ -15,8 +15,6 @@
 - [Execução de testes unitários](#execução-de-testes-unitários)
 - [Avisos Finais](#avisos-finais)
 
----
-
 # Habilidades
 
   * Criar um store Redux em aplicações React
@@ -31,15 +29,11 @@
 
   * Criar actions assíncronas na sua aplicação React que faz uso de Redux.
 
----
-
 # Desenvolvimento
 
 Uma aplicação em React que use Redux como ferramenta de manipulação de estado.
 
 Através dessa aplicação, será possível realizar as operações básicas de criação e manipulação de um estado de redux.
-
----
 
 # Instruções do projeto
 
@@ -54,9 +48,7 @@ Através dessa aplicação, será possível realizar as operações básicas de 
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
   * Verifique que os testes estão executando:
-    * `npm test` (os testes devem rodar e falhar)
-
----
+    * `npm test`
 
 # Linter
 
@@ -64,7 +56,6 @@ Para garantir a qualidade do código, utilizei neste projeto o linter ESLint. As
 
 `npm run lint`
 
----
 
 # Documentação da API de Cotações de Moedas
 
@@ -73,8 +64,6 @@ O _site_ irá consumir os dados da API do _awesomeapi API de Cotações_ para re
 - https://economia.awesomeapi.com.br/json/all
 
 Mais sobre a API, poderá encontra na [documentação](https://docs.awesomeapi.com.br/api-de-moedas).
-
----
 
 # Execução de testes unitários
 
